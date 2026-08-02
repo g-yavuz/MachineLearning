@@ -6,11 +6,11 @@ You can find a structured path and hands-on projects about Machine Learning in t
 
 ## 📂 Repository Structure
 
-* **`00-UsedCarsDataset/`**: Advanced Regression & Optimization Case Study (R²: 0.41 ➔ 0.80)
-* **`1-SimpleLineerRegression/`**: Basics of Simple Linear Regression
-* **`2-MultipleLineerRegression/`**: Multiple Features & Regression Dynamics
-* **`3-PolynomialRegression-Pipeline/`**: Non-linear data modeling with Scikit-Learn Pipelines
-* **`4-AlgerianForestFiresDataset/`**: Classification & EDA on Environmental Data
+* **`0.0-UsedCarsDataset/`**: Advanced Regression & Optimization Case Study (R²: 0.41 ➔ 0.80)
+* **`1.1-SimpleLineerRegression/`**: Basics of Simple Linear Regression
+* **`1.2-MultipleLineerRegression/`**: Multiple Features & Regression Dynamics
+* **`1.3-PolynomialRegression-Pipeline/`**: Non-linear data modeling with Scikit-Learn Pipelines
+* **`1.4-AlgerianForestFiresDataset/`**: Classification & EDA on Environmental Data
 
 ---
 
